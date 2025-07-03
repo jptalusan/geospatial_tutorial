@@ -1,0 +1,10 @@
+osmnx
+networkx
+geopandas
+shapely
+matplotlib
+numpy
+pandas
+scipy
+scikit-learn
+nx-parallel
